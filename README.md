@@ -17,7 +17,7 @@ The skills demonstrated in this project include the excellent use of PowerBI to 
 The data for the project was provided by **DataDNA**
 
 ## Analysis:
-The analysis is made up of two-page reports.
+The analysis is made up of three-page reports.
 1.	The Home Page
 2.	The Dashboard
 3.	The analysis page
